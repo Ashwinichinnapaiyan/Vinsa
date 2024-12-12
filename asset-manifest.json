@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.84a9c486.css",
+    "main.js": "/static/js/main.5c2f3469.js",
+    "static/media/video-2.mp4": "/static/media/video-2.10b53ca9f8d6ebb6ea9f.mp4",
+    "static/media/video-1.mp4": "/static/media/video-1.3cb981fac54d75c31ae5.mp4",
+    "static/media/map.png": "/static/media/map.37bc8ce025e302457d7f.png",
+    "static/media/vinsa2.png": "/static/media/vinsa2.601a6836b5385f0924eb.png",
+    "index.html": "/index.html",
+    "main.84a9c486.css.map": "/static/css/main.84a9c486.css.map",
+    "main.5c2f3469.js.map": "/static/js/main.5c2f3469.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84a9c486.css",
+    "static/js/main.5c2f3469.js"
+  ]
+}
